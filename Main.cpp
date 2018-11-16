@@ -7,5 +7,10 @@ using namespace std;
 
 int main()
 {
+	setlocale(LC_ALL, "Russian");
+	cout << "¬ведите два целых числа" << endl;
+	cin >> a >> b;
+
+	_getch();
 	return 0;
 }
