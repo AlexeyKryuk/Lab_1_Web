@@ -11,6 +11,7 @@ int main()
 	cout << "Введите два целых числа" << endl;
 	cin >> a >> b;
 	cout << "Сумма двух чисел = " << a + b << endl;
+	cout << "Разность двух чисел = " << a - b << endl;
 
 	_getch();
 	return 0;
