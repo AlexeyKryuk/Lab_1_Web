@@ -12,7 +12,9 @@ int main()
 	cin >> a >> b;
 	cout << "Сумма двух чисел = " << a + b << endl;
 	cout << "Разность двух чисел = " << a - b << endl;
+
 	cout << "Произведение двух чисел = " << a * b << endl;
+	cout << "Деление двух чисел = " << a / b << endl;
 
 	_getch();
 	return 0;
